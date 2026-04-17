@@ -43,6 +43,10 @@ x = y = 10
 print('Value of x', x)
 print('Value of y', y)
 
+# Delete a variable
+del x 
+
+
 # Casting: Converting one data type to another data type. 
 # We use int(), float(), str(), list, set When we do arithmetic operations string 
 # numbers should be first converted to int or float otherwise it will return an error. 
